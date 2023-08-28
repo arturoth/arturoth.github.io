@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Cencosud.
+    url: "https://www.cencosud.com"
+    location: Chile
+    # company overview
+    overview: Cencosud is a retail leadership on south America and has participation in 5 countries on America
+  positions:
+  - designation: Technical Lead
+    start: Nov 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Contributing to make a better ecosystem in Observability culture and practices, focused on New Relic. In constant collaboration building and develop solutions for improvement pipelines on Gitlab CI for help to compliance in observability main in AWS.
+    - Design macro plan to auto integrate with different tools with Observability.
+    - Helps to devs team to known his [M.E.L.T](https://newrelic.com/sites/default/files/2022-03/melt-101-four-essential-telemetry-data-types.pdf) on this services.
+    - Lead Observability team.
+

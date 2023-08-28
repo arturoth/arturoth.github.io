@@ -1,0 +1,19 @@
+# some information about you
+name: "Arturo I"
+nickname: "arturoth"
+image: "images/author/mm2.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "arturoth@gmail.com"
+  phone: "+0123456789"
+
+# a summary of what you do
+summary:
+- Principal, I'm a bridge builder for create projects 
+- Work in DevOps, Platform Engineering and some fun challenges 
+- Engineer, architect, develop, let's go for that awesome project
+- Family guy, father of 3 boys and bike entusiast
