@@ -13,12 +13,12 @@ section:
 skills:
 - name: Kubernetes
   icon: "images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of deploying, managing application on Kubernetes. Some funny training in writing k8s controllers for CRDs and build helm charts."
   url: https://kubernetes.io/
 
 - name: Any program language
   icon: "images/sections/skills/go.png"
-  summary: "Capable of writing scalable, testable, and maintainable program in golang, java, ruby or anyone, let's go to the challenge!!"
+  summary: "Capable of writing scalable, testable, and maintainable program in golang, java, javascript, ruby or anyone, let's go to the challenge!!"
   url: "https://golang.org/"
 
 - name: Cloud Computing
