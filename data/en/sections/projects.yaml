@@ -36,6 +36,13 @@ projects:
   summary: A compendium of the work being done with Observability on the organization.
   tags: ["academic","iot"]
 
+- name: Minimal practices and changes on terraform can improve your experience on IaC
+  role: Technical Lead
+  timeline: "Oct 2022"
+  url: "https://medium.com/@arturoth/minimal-practices-and-changes-on-terraform-can-improve-your-experience-on-iac-66b339d9c490"
+  summary: Some practices to make life easier on terraform.
+  tags: ["academic","iot"]
+
 - name: Nocode
   logo: images/sections/projects/no-code.png
   role: Nothing
